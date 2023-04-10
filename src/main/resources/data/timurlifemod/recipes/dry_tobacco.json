@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smoking",
+  "category": "tobacco",
+  "cookingtime": 200,
+  "experience": 0.35,
+  "ingredient": {
+    "item": "timurlifemod:tobacco"
+  },
+  "result": "minecraft:dry_tobacco"
+}
